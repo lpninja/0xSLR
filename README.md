@@ -5,6 +5,7 @@ Whitepaper Version 1.01
 
 0xSLR is a proposal to transition some of the advantages of the current SolarCoin blockchain over to an ERC20 standard. It is intended to work with the current SLR native blockchain ecosystem. This is not an ICO or a security. It is a new commodity produced by solar energy production verification and logging of that energy itself. For x-amount of solar energy produced, x-amount of 0xSLR are minted as new ERC20 commodities.
 Due to the large developer ecosystem that has evolved in the Ethereum community, 0xSLR can take advantage of all of these new tools to transact, transfer and also be utilized in the smart contracts increasingly being used in the electricity generation, distribution and retail sectors.
+The name 0xSLR is derived from a combination of the name of the decentralized and Proof-of-stake commodity SLR with the term ‘0x’ which implies that the asset lives on the Ethereum Network.
 
 The basis of 0xSLR is taking inspiration from the 0xbitcoin project, where more details can be found [here](https://github.com/0xbitcoin/white-paper) with one notable key difference; 0xSLR's are not mined by a proof-of-work (POW) mechanism but they are minted by verifying the amount of solar energy produced at an x,y,z location.
 
